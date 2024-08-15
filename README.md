@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DenverAggie
 - 👀 I’m interested in Client Success
 - 🌱 I’m currently learning basic coding
-- 💞️ I’m looking to find a new role where I canhelp scale the CS department
+- 💞️ I’m looking to find a new role where I can help scale the CS department
 - 📫 How to reach me: agmelissa02@yahoo.com
 
 <!---
